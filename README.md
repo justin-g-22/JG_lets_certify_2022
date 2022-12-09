@@ -4,4 +4,4 @@ Let's Certify is a browser plugin that provides safety checks on a URL to ensure
 which makes use of an RSA accumulator to securely store the website's information for quick retrieval in the event of a security update.
 My contributions to the project were the development of the RSA Accumulator in python code as well as some additional coding
 for the browser plugin, largely translating the python code into Javascript.
-
+All files can also be found where they were originally uploaded by another project contributor at https://eddiem22.github.io/letscertify/ 
